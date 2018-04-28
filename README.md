@@ -1,9 +1,9 @@
-# Dida\WXAPI 组件库
+# Dida\Wx 组件库
 
-`Dida\WXAPI` 是一个对接微信开放平台API的功能组件，适用于常见的微信开发场景。它是 [宙品科技](http://zeupin.com) 开源的 [Dida框架](http://dida.zeupin.com) 的一个功能组件库。
+`Dida\Wx` 是一个对接微信开放平台API的功能组件，适用于常见的微信开发场景。它是 [宙品科技](http://zeupin.com) 开源的 [Dida框架](http://dida.zeupin.com) 的一个功能组件库。
 
-* Home <https://github.com/zeupin/dida-wxapi>
-* Wiki <https://github.com/zeupin/dida-wxapi/wiki>
+* Home <https://github.com/zeupin/dida-wx>
+* Wiki <https://github.com/zeupin/dida-wx.wiki>
 
 ## 特点
 
@@ -20,7 +20,7 @@
 ### Composer方式安装
 
 ```bash
-composer require dida/wxapi
+composer require dida/wx
 ```
 
 ### 升级
@@ -31,7 +31,7 @@ composer update
 
 ## 项目文档
 
-* Wiki <https://github.com/zeupin/dida-wxapi/wiki>
+* Wiki <https://github.com/zeupin/dida-wx/wiki>
 
 ## 作者
 
